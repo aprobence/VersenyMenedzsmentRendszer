@@ -6,7 +6,7 @@ internal class Futas : Verseny
     {
     }
 
-    public string KiirUtasitas()
+    public static string KiirUtasitas()
     {
         return "A versenyzők 3 kör futással kezdik a versenyt.";
     }

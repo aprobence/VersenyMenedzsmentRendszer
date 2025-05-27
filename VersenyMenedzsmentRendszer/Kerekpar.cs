@@ -7,7 +7,7 @@ internal class Kerekpar : Verseny
         
     }
     
-    public string KiirUtasitas()
+    public static string KiirUtasitas()
     {
         return "A versenyzők 5 kör kerékpározással kezdik a versenyt.";
     }

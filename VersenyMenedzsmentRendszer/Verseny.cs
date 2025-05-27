@@ -23,7 +23,7 @@ internal class Verseny
         }
         else
         {
-            throw new InvalidOperationException("A verseny elérte a maximális indulók számát.");
+            Console.WriteLine($"{versenyzo} nem adható hozzá, mert a verseny elérte a maximális indulók számát.");
         }
     }
 }

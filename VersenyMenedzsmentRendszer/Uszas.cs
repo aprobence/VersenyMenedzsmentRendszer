@@ -7,7 +7,7 @@ internal class Uszas : Verseny
         
     }
     
-    public string KiirUtasitas()
+    public static string KiirUtasitas()
     {
         return "A versenyzők 50 méteres úszással kezdik a versenyt.";
     }
